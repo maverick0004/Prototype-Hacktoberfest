@@ -1,0 +1,13 @@
+<HTML>
+    <BODY>
+{% block content %}
+        <div>
+            <form action="" method="post">
+                {% csrf_token %}
+                <div class="fields"> Name <br><br> {{ form.name }}</div>
+                <input type="submit" value="ADD">
+            </form>
+        </div>
+{% endblock content %}
+    </BODY>
+</HTML>
