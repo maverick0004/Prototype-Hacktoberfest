@@ -2,7 +2,7 @@
 
 ## Settng up project 1,2,3
 
-### Install **Tkinter first
+### Install Tkinter first
     sudo apt-get update
     sudo apt-get install python3-tk
     
