@@ -33,7 +33,7 @@ master = Tk()
 master.title("GMail")
 
 project_root = os.path.abspath(os.path.join("./", os.pardir))
-logo = PhotoImage(file=project_root+"/images/Webp.net-resizeimage.png")
+logo = PhotoImage("home/maverick/Desktop/work/images/Webp.net-resizeimage.png")
 Label(master, image=logo, bd=0,anchor=CENTER).grid(row=0,sticky=N,pady=20,column=1)
 
 Label(master, text="Email Id:",font=("Helvetica",14)).grid(row=1, column=0,sticky=E,pady=10)
