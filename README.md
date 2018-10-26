@@ -2,16 +2,16 @@
 
 ## Settng up project 1,2,3
 
-### Install **Tkinter first
+### Install Tkinter first
     sudo apt-get update
     sudo apt-get install python3-tk
     
 ### Run project 
     python3 project_name.py
     
-### Setting up project 4
+## Setting up project 4
 
-# How to install virtualenv:
+## How to install virtualenv:
 
 ### Install **pip** first
 
