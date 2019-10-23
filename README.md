@@ -35,3 +35,6 @@
 ### Run Django project
     1. open project directory with manage.py file
     2. python3 manage.py runserver
+### This is a new edit in the Prototype Hacktober Fest Repository
+   1. fork this repo
+   2. add relevant info about it in the readme
